@@ -16,20 +16,6 @@
 - 🌱 Estou focado em aprender tecnologias web e na carreira fullstack.
 
 - 🤔 Tenho curiosidade nas áreas de Teoria da Computação, Grafos e Hardware.
-
-- 📫 Entre em contato:
-
-  <a href="https://www.linkedin.com/in/arthur-ramalho-01aa52389/">
-    Linkedin  
-  </a>
-  <br>
-  <a href="artramalho@proton.me">  
-    Email
-  </a>
-  <br>
-  <a href="https://www.instagram.com/ramalho.arthurr/">  
-    Instagram
-  </a>
   
 <br>
 
