@@ -15,7 +15,7 @@
 
 - 🌱 Estou focado em aprender tecnologias web e na carreira fullstack.
 
-- 🤔 Tenho curiosidade nas áreas de Teoria da Computação, Grafos e Hardware.
+- 🤔 Tenho curiosidade nas áreas de Teoria da Computação, Grafos e Programação Competitiva.
   
 <br>
 
@@ -28,19 +28,10 @@
 
 <p align="left">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,py,flask,docker,vscode,git,linux,&perline=6">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,py,flask,docker,vscode,git,linux, c++,&perline=6">
   </a>
 </p>
 
 <!--
 **ramalhoarthur/ramalhoarthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 -->
